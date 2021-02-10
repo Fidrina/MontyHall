@@ -1,4 +1,19 @@
-# application
+# app
+
+## Vue
+```
+npm install -g @vue/cli
+```
+
+## Application
+
+```
+vue create app
+```
+
+```
+cd app
+```
 
 ## Project setup
 ```
