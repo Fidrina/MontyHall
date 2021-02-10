@@ -1,38 +1,43 @@
 # app
 
 ## Vue
-```
-npm install -g @vue/cli
+
+```bash
+    npm install -g @vue/cli
 ```
 
 ## Application
 
-```
-vue create app
+```bash
+    vue create app
 ```
 
-```
-cd app
+```bash
+    cd app
 ```
 
 ## Project setup
-```
-npm install
+
+```bash
+    npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
-npm run serve
+
+```bash
+    npm run serve
 ```
 
 ### Compiles and minifies for production
-```
-npm run build
+
+```bash
+    npm run build
 ```
 
 ### Lints and fixes files
-```
-npm run lint
+
+```bash
+    npm run lint
 ```
 
 ### Customize configuration
